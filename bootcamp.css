@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+
+
+.a1{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    
+}
+.a1 img{
+border-radius: 50000000000px;
+}
+.a2{
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+}
+.a3{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+.a4{
+    color: white;
+}
+.a5{
+    color: white;
+}
+.a7{
+    color: black;
+    background-color: white;
+}
+.a8{
+    display: flex;
+
+}
+.a7 img{
+    border-radius: 500000000px;
+    justify-content: space-around;
+}
+.a12{
+    color: white;
+    text-align: center;
+}
